@@ -12,7 +12,7 @@ const Navbar = () => {
                     <Link to={"/"}>
                         <div className="flex items-center space-x-1 cursor-pointer">
                             <Home className="w-8 h-8 text-orange-500" />
-                            <h1 className="text-3xl font-bold tracking-widest uppercase">Mincity</h1>
+                            <h1 className="text-3xl font-bold tracking-widest uppercase">Minicity</h1>
                         </div>
                     </Link>
                     <nav className="flex items-center space-x-6">
